@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.kingdee.zhihuiji",
+    "sha256_cert_fingerprints":
+    ["0B:CB:8E:05:B0:4B:11:0B:84:BE:85:5A:C5:0B:4D:1F:76:1E:50:4D:79:3A:FB:5A:BB:E4:F6:29:56:48:1D:9F"]
+  }
+}]
